@@ -7,7 +7,7 @@ function HelloWorld(id) {
   greeting = document.createElement('h3');
   greeting.setAttribute('id', 'hello');
   greeting.style.visibility = "hidden";
-  greeting.innerHTML = "Hello - CI CD Pipeline! from GitHub using online Editor";
+  greeting.innerHTML = "Hello - Welcome to CI/CD pipeline";
 
   element.appendChild(greeting);
 
